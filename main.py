@@ -1,4 +1,7 @@
 def main():
+    """
+    Prints `Hello!` and then terminates.
+    """
     return
 
 
