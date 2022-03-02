@@ -8,3 +8,4 @@ Workflow:
 5. Pull `main.py` from master branch into `comment` branch.
 
 Results:
+Automatic merge failed, but it wasn't that hard to fix manually -- just keep the stuff from main branch as well as the comments from the comment branch.
