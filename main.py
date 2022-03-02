@@ -2,6 +2,7 @@ def main():
     """
     Prints `Hello!` and then terminates.
     """
+    print('Hello!')
     return
 
 
